@@ -17,5 +17,4 @@ First lets preview the output from each of them
 
 Comparing on different performances :
 
-Python is able to acheive the task with giving all the features, but its a bit time taking as we need to write few lines of code
-when we compare all, https://www.wordclouds.com/ is the most user-friendly and has lot of functionality
+Python is able to acheive the task with giving all the features, but its a bit time taking as we need to write few lines of code, when we compare all, https://www.wordclouds.com/ is the most user-friendly and has lot of functionality
