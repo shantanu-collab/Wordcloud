@@ -8,5 +8,10 @@ I have made wordcloud on wikipedia search for the term "Business analytics", usi
 
 First lets preview the output from each of them 
 
-1. Python 
-2. ![wordcloud](https://user-images.githubusercontent.com/56268734/133846019-40b570e5-5122-49f4-819b-7656a6a9a625.png)
+1. Python, with mask as batman, maximum word as 200
+![wordcloud](https://user-images.githubusercontent.com/56268734/133846019-40b570e5-5122-49f4-819b-7656a6a9a625.png)
+2. https://www.wordclouds.com/
+![1](https://user-images.githubusercontent.com/56268734/133846616-03fdc57c-e5e3-45f4-9447-255b6e4dde84.png)
+3.https://worditout.com/word-cloud/create
+![WordItOut-word-cloud-4842585](https://user-images.githubusercontent.com/56268734/133846907-0d4214a1-66b5-4912-a5d8-927e191407bd.png)
+
