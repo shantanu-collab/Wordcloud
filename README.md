@@ -15,3 +15,7 @@ First lets preview the output from each of them
 3.https://worditout.com/word-cloud/create
 ![WordItOut-word-cloud-4842585](https://user-images.githubusercontent.com/56268734/133846907-0d4214a1-66b5-4912-a5d8-927e191407bd.png)
 
+Comparing on different performances :
+
+Python is able to acheive the task with giving all the features, but its a bit time taking as we need to write few lines of code
+when we compare all, https://www.wordclouds.com/ is the most user-friendly and has lot of functionality
